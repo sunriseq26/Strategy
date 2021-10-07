@@ -1,0 +1,370 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.1f1 (270dd8c3da1c) revision 2559448'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.0) 64bit' Language: 'ru' Physical Memory: 65455 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\Program Files\Unity\2020.2.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/REPO/Strategy/StrategySunrise
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+59664
+Successfully changed project path to: E:/REPO/Strategy/StrategySunrise
+E:/REPO/Strategy/StrategySunrise
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 20.01 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
+[Subsystems] Discovering subsystems at path D:/Program Files/Unity/2020.2.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/REPO/Strategy/StrategySunrise/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 Ti (ID=0x1b82)
+    Vendor:   
+    VRAM:     8079 MB
+    Driver:   27.21.14.5671
+Initialize mono
+Mono path[0] = 'D:/Program Files/Unity/2020.2.1f1/Editor/Data/Managed'
+Mono path[1] = 'D:/Program Files/Unity/2020.2.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/Program Files/Unity/2020.2.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56844
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/Program Files/Unity/2020.2.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.000847 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 19.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.679 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000358 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.637 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1113 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 58.0 MB.
+System memory in use after: 58.0 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1553.
+Total: 1.743800 ms (FindLiveObjects: 0.222700 ms CreateObjectMapping: 0.040400 ms MarkObjects: 1.414600 ms  DeleteObjects: 0.064800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/Main.unity
+  artifactKey: Guid(c99f52ce915ce9c4496a5a53fdfdeeba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Main.unity using Guid(c99f52ce915ce9c4496a5a53fdfdeeba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6664a3351f451ca38e0d5120823e6956') in 0.015291 seconds
+  Import took 0.027235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 343.219447 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '016640421bf54ce873cbc7b610fdb87c') in 0.006836 seconds
+  Import took 0.008941 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 61.792575 seconds.
+  path: Assets/Sprites/MainBuilding.png
+  artifactKey: Guid(712262adeebd1924cad36360993fca8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/MainBuilding.png using Guid(712262adeebd1924cad36360993fca8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bea4adc258f3bca969f4500cd3a719b') in 0.100203 seconds
+  Import took 0.102188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Sprites/Unit.png
+  artifactKey: Guid(9908913e928c42d4f9f1891893bbc424) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Unit.png using Guid(9908913e928c42d4f9f1891893bbc424) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73eb6be22dc39c0f561f2914c590aa2e') in 0.013627 seconds
+  Import took 0.015555 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000579 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.585 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1107 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 66.5 MB.
+System memory in use after: 62.0 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1566.
+Total: 4.048600 ms (FindLiveObjects: 0.186200 ms CreateObjectMapping: 0.026000 ms MarkObjects: 1.361400 ms  DeleteObjects: 2.473900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 138.546335 seconds.
+  path: Assets/Prefabs/UI.prefab
+  artifactKey: Guid(5dd235a43d36f9347a1a35df441f10d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/UI.prefab using Guid(5dd235a43d36f9347a1a35df441f10d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '585f5fdb464b0067abdd3fbc8b49d661') in 0.079417 seconds
+  Import took 0.081643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 115.750893 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters
+  artifactKey: Guid(0118097ded8dbb741af77bed6b8ca050) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters using Guid(0118097ded8dbb741af77bed6b8ca050) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cede21efd0e1ffea7d1870f161f4290d') in 0.006162 seconds
+  Import took 0.008275 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.453091 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Chomper
+  artifactKey: Guid(b7d6bb0a5aeaf284aa99e7fffc2c3575) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Chomper using Guid(b7d6bb0a5aeaf284aa99e7fffc2c3575) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9691d4b0c00a336e6b0b84d18b6552fa') in 0.005386 seconds
+  Import took 0.007253 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.247549 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Chomper/Models
+  artifactKey: Guid(29561e69de6723b4ca1814976f82b6cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Chomper/Models using Guid(29561e69de6723b4ca1814976f82b6cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dab13353f270ecb60242e3037aa93379') in 0.005803 seconds
+  Import took 0.007684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.058182 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Chomper/Models/Chomper.FBX
+  artifactKey: Guid(2732fe64dd2799f439fb845921df626b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Chomper/Models/Chomper.FBX using Guid(2732fe64dd2799f439fb845921df626b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f81d46f9c002a18880a4d27cf97c346') in 0.531205 seconds
+  Import took 0.534699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.778212 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Ellen
+  artifactKey: Guid(73aa2ae2f4ee4f643a0ab1f1ee2df86b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Ellen using Guid(73aa2ae2f4ee4f643a0ab1f1ee2df86b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9984f20138c07fdcd4d3644735f2656') in 0.004783 seconds
+  Import took 0.006651 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.569569 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Ellen/Models
+  artifactKey: Guid(544c525bf01e66047b72170a1271159a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Ellen/Models using Guid(544c525bf01e66047b72170a1271159a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfb2688e031487dace33a47b9a5e0f53') in 0.001501 seconds
+  Import took 0.003392 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024313 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Ellen/Models/Ellen.fbx
+  artifactKey: Guid(a5674d01884853d4e8f2386a171e14d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Ellen/Models/Ellen.fbx using Guid(a5674d01884853d4e8f2386a171e14d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5750383326adb126562b2becb9c146bd') in 0.750557 seconds
+  Import took 0.758669 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.286208 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Grenadier
+  artifactKey: Guid(ed0b65884ad11414b9b6a5248c009b50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Grenadier using Guid(ed0b65884ad11414b9b6a5248c009b50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e6bb2777b477c3e22b9cc077b01df53') in 0.004836 seconds
+  Import took 0.006898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.881687 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Grenadier/Models
+  artifactKey: Guid(f7eddb80cdd961d42977cbd51870f172) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Grenadier/Models using Guid(f7eddb80cdd961d42977cbd51870f172) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8658b6bced07219e72ce345208fca3f9') in 0.001417 seconds
+  Import took 0.003494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000713 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Grenadier/Models
+  artifactKey: Guid(f7eddb80cdd961d42977cbd51870f172) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Grenadier/Models using Guid(f7eddb80cdd961d42977cbd51870f172) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8658b6bced07219e72ce345208fca3f9') in 0.001138 seconds
+  Import took 0.002509 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.086747 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Grenadier/Models/Grenadier.fbx
+  artifactKey: Guid(887cc9cbcc10e8c45b6262198cc15ee6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Grenadier/Models/Grenadier.fbx using Guid(887cc9cbcc10e8c45b6262198cc15ee6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea814fbfc4f4ae43c2ea4db4599a1ba2') in 0.495791 seconds
+  Import took 0.500200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.607268 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Grenadier/Textures
+  artifactKey: Guid(cf3c71e2d7323574e97ebc50629691d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Grenadier/Textures using Guid(cf3c71e2d7323574e97ebc50629691d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d25b8c0c521f0692ffac8fdbffa7009') in 0.005668 seconds
+  Import took 0.007672 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.094415 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Grenadier/Textures/EnergyCore_Gradient.tif
+  artifactKey: Guid(60da32e447f278b44aed3835491cf713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Grenadier/Textures/EnergyCore_Gradient.tif using Guid(60da32e447f278b44aed3835491cf713) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '698933a27deb103937acd975ab0ceceb') in 0.013723 seconds
+  Import took 0.015569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Grenadier/Textures/InnerStructureRamp.tif
+  artifactKey: Guid(c303351dc29a5e94ba8f5d4fff0601f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Grenadier/Textures/InnerStructureRamp.tif using Guid(c303351dc29a5e94ba8f5d4fff0601f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a4bf2f9dcec9b793330cebddf8fd08f') in 0.005765 seconds
+  Import took 0.007186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000107 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Grenadier/Textures/Grenadier_Packed.tif
+  artifactKey: Guid(6ecb326aefbde1946a3cc7cd9b28ff6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Grenadier/Textures/Grenadier_Packed.tif using Guid(6ecb326aefbde1946a3cc7cd9b28ff6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b923fe69deff584a9b4b8c110495c65') in 0.009915 seconds
+  Import took 0.011521 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Grenadier/Textures/HighlightRamp.tif
+  artifactKey: Guid(f84885f4324acdd4c9c2b819859275af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Grenadier/Textures/HighlightRamp.tif using Guid(f84885f4324acdd4c9c2b819859275af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17fad47de1cab86ad98208d339f08686') in 0.006481 seconds
+  Import took 0.008071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Grenadier/Textures/Grenadier_Eye_Emission.tif
+  artifactKey: Guid(e966aee963a5a894cb111ee9f7b2ac65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Grenadier/Textures/Grenadier_Eye_Emission.tif using Guid(e966aee963a5a894cb111ee9f7b2ac65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0c2313b93fc982a5a617e4a2aa6a4a5') in 0.007764 seconds
+  Import took 0.009393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Grenadier/Textures/Grenadier_Normal.tif
+  artifactKey: Guid(7d0bb41dd0dbe3644b7e619a2fe36c9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Grenadier/Textures/Grenadier_Normal.tif using Guid(7d0bb41dd0dbe3644b7e619a2fe36c9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6172f1027fe8a7e8871d6a3fa56431b9') in 0.025074 seconds
+  Import took 0.028345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000141 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Grenadier/Textures/Grenadier_Eye_Normal.tif
+  artifactKey: Guid(9492ca5cda9b7f74ea5af288a8f20a8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Grenadier/Textures/Grenadier_Eye_Normal.tif using Guid(9492ca5cda9b7f74ea5af288a8f20a8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b96d2c940965156bd0041c6b67376be3') in 0.008161 seconds
+  Import took 0.009834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Grenadier/Textures/Grenadier_Albedo.tif
+  artifactKey: Guid(73d4cda3b62785f458d958f53adc6b49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Grenadier/Textures/Grenadier_Albedo.tif using Guid(73d4cda3b62785f458d958f53adc6b49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06ee9df26ee5f490b761dd9d77795356') in 0.009304 seconds
+  Import took 0.010991 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Grenadier/Textures/Grenadier_MetallicSmooth.tif
+  artifactKey: Guid(f1431b1f329f4a54c88a8a59335cd280) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Grenadier/Textures/Grenadier_MetallicSmooth.tif using Guid(f1431b1f329f4a54c88a8a59335cd280) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4e6373aec6bc7474b06813835c19d5d') in 0.009775 seconds
+  Import took 0.011382 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Grenadier/Textures/EnergyCore_Noise.tif
+  artifactKey: Guid(baea65a7abf3c5a4095956327ddb1122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Grenadier/Textures/EnergyCore_Noise.tif using Guid(baea65a7abf3c5a4095956327ddb1122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4f4bad2626a3295c712ee46258f71c3') in 0.008165 seconds
+  Import took 0.009761 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.460993 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Gunner
+  artifactKey: Guid(e67e23499f192c6418c7f240b4b1a2c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Gunner using Guid(e67e23499f192c6418c7f240b4b1a2c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a78e69665895ef4c4c0a1bf803adedf') in 0.004997 seconds
+  Import took 0.006978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.609146 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Gunner/Models
+  artifactKey: Guid(098f25001bd4fb64a98657b33f5cd5bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Gunner/Models using Guid(098f25001bd4fb64a98657b33f5cd5bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f35db164591798915db2e9291a7ee49') in 0.001749 seconds
+  Import took 0.003691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000465 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Gunner/Models
+  artifactKey: Guid(098f25001bd4fb64a98657b33f5cd5bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Gunner/Models using Guid(098f25001bd4fb64a98657b33f5cd5bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f35db164591798915db2e9291a7ee49') in 0.001124 seconds
+  Import took 0.002376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.077562 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Gunner/Models/Gunner.fbx
+  artifactKey: Guid(b476cabc75adebf4e998f44ada8db684) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Gunner/Models/Gunner.fbx using Guid(b476cabc75adebf4e998f44ada8db684) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2556d0968cddf00477de91eaf100cab9') in 0.095028 seconds
+  Import took 0.098433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.477898 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Spitter
+  artifactKey: Guid(70c56b4a86629354fa1a066ff8c43bbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Spitter using Guid(70c56b4a86629354fa1a066ff8c43bbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17f8126d8339e5bd826a167053a3e7ec') in 0.004860 seconds
+  Import took 0.006820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.349815 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Spitter/Models
+  artifactKey: Guid(f5287693c1ed1eb45888bcac434d830b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Spitter/Models using Guid(f5287693c1ed1eb45888bcac434d830b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e47c8e824225e294a1322596d04295c3') in 0.001468 seconds
+  Import took 0.003273 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.060921 seconds.
+  path: Assets/3D Game Kit - Character Pack/Characters/Spitter/Models/Spitter.fbx
+  artifactKey: Guid(3a3cea986292c2445a02c973a48c7e8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/3D Game Kit - Character Pack/Characters/Spitter/Models/Spitter.fbx using Guid(3a3cea986292c2445a02c973a48c7e8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd271c4c1bbbf2bfe557e8b8b86ccdb0c') in 0.044481 seconds
+  Import took 0.048494 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

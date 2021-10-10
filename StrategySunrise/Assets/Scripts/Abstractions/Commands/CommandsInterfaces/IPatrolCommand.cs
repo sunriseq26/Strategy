@@ -1,6 +1,6 @@
 ﻿namespace Abstractions.Commands.CommandsInterfaces
 {
-    public interface IPatrolCommand
+    public interface IPatrolCommand : ICommand
     {
         
     }

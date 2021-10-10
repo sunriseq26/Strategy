@@ -1,6 +1,6 @@
 ﻿namespace Abstractions.Commands.CommandsInterfaces
 {
-    public interface IMoveCommand
+    public interface IMoveCommand : ICommand
     {
         
     }

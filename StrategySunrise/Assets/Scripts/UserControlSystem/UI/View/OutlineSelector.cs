@@ -6,6 +6,7 @@ public sealed class OutlineSelector : MonoBehaviour
     [SerializeField] private Outline[] _outlineComponents;
 
     private bool _isSelectedCache;
+    
 
     private void Start() => DisableOutline();
     
